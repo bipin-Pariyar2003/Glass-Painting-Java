@@ -1,0 +1,14 @@
+com\mycompany\project\servlets\ProductOperationServlet.class
+com\mycompany\project\dao\ProductDao.class
+com\mycompany\project\dao\CategoryDao.class
+com\mycompany\project\entities\Category.class
+com\mycompany\project\JakartaRestConfiguration.class
+com\mycompany\project\resources\JakartaEE10Resource.class
+com\mycompany\project\servlets\RegisterServlet.class
+com\mycompany\project\helper\Helper.class
+com\mycompany\project\servlets\LoginServlet.class
+com\mycompany\project\entities\User.class
+com\mycompany\project\servlets\LogoutServlet.class
+com\mycompany\project\helper\FactoryProvider.class
+com\mycompany\project\entities\Product.class
+com\mycompany\project\dao\UserDao.class
